@@ -167,7 +167,7 @@ The business relies heavily on new customers, showing extremely low customer loy
 Introduce loyalty programs, retention offers, and personalized engagement.
 
 📸 Visualization:
-![Churn Distribution](images/Distribution of Churned vs. Retained Customers.png)
+![Churn Distribution](images/churn_distribution.png)
 
 2️⃣ Delivery Performance Strongly Influences Churn
 
@@ -182,7 +182,7 @@ Delivery delay is the #1 driver of churn.
 Improve logistics SLAs, introduce delay alerts, offer apology coupons, and enable real-time tracking.
 
 📸 Visualization:
-![Impact of Delivery Delays](images/Impact of Delivery Delays on Customer Churn.png)
+![Impact of Delivery Delays](images/delivery_delay_impact.png)
 
 3️⃣ Review Score Patterns
 
@@ -216,7 +216,7 @@ Revenue is driven by a few strong categories; others underperform consistently.
 Increase visibility for strong categories and bundle low performers.
 
 📸 Visualization:
-![Top Categories by Revenue](images/Top 10 Product Categories by Revenue.png)
+![Top Categories by Revenue](images/top10_categories.png)
 
 5️⃣ Revenue Trends Over Time
 
@@ -231,7 +231,7 @@ Increase inventory and marketing efforts during peak months.
 
 Clear seasonal spikes, strong upward trend.
 📸 Visualization:
-![Monthly Sales Trend](images/Monthly Sales Trend (Revenue).png)
+![Monthly Sales Trend](images/monthly_sales_revenue.png)
 
 ## Tools & Technologies Used
 
